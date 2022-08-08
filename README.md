@@ -2,13 +2,15 @@
 
 A short game coded in [Scratch](https://scratch.mit.edu/about), in which you have press the numeric keys that appear on screen before it falls through the screen.
 
+## Demo
+
 ![demo](readme_assets/demo.gif)
 
 ## Run the project
 
 ![tutorial](readme_assets/tutorial.gif)
 
-1. Fork the project using ```git clone ```.
+1. Fork the project using ```git clone https://github.com/ujjwalgarg100204/typeskill-scratch-pro.git```.
 2. Go to Scratch [Get Started](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) page.
 3. Click on File option and Select **Load from your computer**
 4. Your Screen should like this.
