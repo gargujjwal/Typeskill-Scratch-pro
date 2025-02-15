@@ -10,7 +10,7 @@ A short game coded in [Scratch](https://scratch.mit.edu/about), in which you hav
 
 ![tutorial](readme_assets/tutorial.gif)
 
-1. Fork the project using ```git clone https://github.com/ujjwalgarg100204/typeskill-scratch-pro.git```.
+1. Fork the project using `git clone https://github.com/gargujjwal/typeskill-scratch-pro.git`.
 2. Go to Scratch [Get Started](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) page.
 3. Click on File option and Select **Load from your computer**
 4. Your Screen should like this.
@@ -26,3 +26,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](LICENSE.txt)
+
